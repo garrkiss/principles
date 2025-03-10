@@ -2,7 +2,7 @@
 
 # Задача 1: API Gateway
 
-![Скриншот](https://github.com/garrkiss/sentry/blob/main/img/1.png)
+![Скриншот](https://github.com/garrkiss/principles/blob/main/img/api.png)
 
 На основе требований и таблицы я предлагаю выбрать Kong Gateway. Обоснование:
 
@@ -20,7 +20,7 @@
 
 # Брокер сообщений
 
-![Скриншот](https://github.com/garrkiss/sentry/blob/main/img/2.png)
+![Скриншот](https://github.com/garrkiss/principles/blob/main/img/broker.png)
 
 Анализ и выбор решения
 На основе требований я предлагаю выбрать Apache Kafka. Обоснование:
